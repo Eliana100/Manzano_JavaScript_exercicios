@@ -37,12 +37,6 @@ Neste projeto, apliquei conceitos fundamentais de programação e desenvolviment
 
 <br>
 
-## 🍒 Status do Projeto
-
-O projeto está concluído. Todos os exercícios propostos na lista foram codificados, testados e integrados ao painel principal. A estrutura de botões permite que qualquer pessoa teste as fórmulas de maneira rápida e intuitiva.
-
-<br>
-
 ## 💌 Como Executar
 
 Clone o repositório:
