@@ -16,10 +16,14 @@ Este projeto consiste na resolução da lista de exercícios de algoritmos do li
 <br>
 
 Neste projeto, apliquei conceitos fundamentais de programação e desenvolvimento front-end para criar um painel de controle de algoritmos:
-Lógica de Programação: Implementação de todas as questões (de A a M) que envolvem cálculos matemáticos, conversões de temperatura, câmbio e manipulação de variáveis.
-Integração JS e DOM: Conexão das funções JavaScript aos botões do HTML através do evento onclick, permitindo uma interação direta com o usuário.
-Layout Responsivo: Criação de um grid de botões estilizado com CSS para que os exercícios fiquem organizados e fáceis de acessar em qualquer tela.
-Interatividade: Uso de prompt para entrada de dados e alert para exibição de resultados, simulando o comportamento de um terminal de comandos de forma visual.
+
+**Lógica de Programação:** Implementação de todas as questões (de A a M) que envolvem cálculos matemáticos, conversões de temperatura, câmbio e manipulação de variáveis.
+
+**Integração JS e DOM:** Conexão das funções JavaScript aos botões do HTML através do evento onclick, permitindo uma interação direta com o usuário.
+
+**Layout Responsivo:** Criação de um grid de botões estilizado com CSS para que os exercícios fiquem organizados e fáceis de acessar em qualquer tela.
+
+**Interatividade:** Uso de prompt para entrada de dados e alert para exibição de resultados, simulando o comportamento de um terminal de comandos de forma visual.
 
 <br>
 
@@ -45,7 +49,10 @@ Clone o repositório:
 
 <br>
 
+```
 code
 Bash
 git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
+```
+
 Abra o arquivo index.html em seu navegador.
